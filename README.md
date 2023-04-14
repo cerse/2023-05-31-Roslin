@@ -35,7 +35,7 @@ This is a provisional timetable.
 
 |Time  | Activity      |
 |------| ------|
-|15:00 | Welcome - **Someone** |
+|15:00 | Welcome - Sarah Janac |
 |15:05 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
 |15:40 | **List of talks** |
 |15:30 | Coffee and biscuits **Optional** |
