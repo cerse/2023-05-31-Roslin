@@ -4,6 +4,7 @@
 - [ ] **Sarah** update web site to inform about parking.
 - [ ] **Sarah** update web site to inform about badge wearing.
 - [ ] **All** need to source a first aider.
+- [ ] Catering
 
 ## Notes
 
