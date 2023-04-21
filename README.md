@@ -20,7 +20,7 @@ B-006 (Basement seminar room), Roslin Institute at 3pm on 31/05/23.
 * External visitors (not University of Edinburgh affiliated) will be required to sign in at Reception, and pick up a visitor's ID badge
 
 **Parking**: 
-Cars need to be registered at Reception. Parking is free of charge.
+Parking is free of charge. However, cars need to be registered at Reception to avoid a parking ticket.
 
 
 ## Code of Conduct
