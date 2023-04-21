@@ -17,9 +17,10 @@ B-006 (Basement seminar room), Roslin Institute at 3pm on 31/05/23.
 
 **Signing In**: 
 * University of Edinburgh affiliated visitors will be required to sign-in at Reception and wear their University of Edinburgh badge.
-* External visitors (not University of Edinburgh affiliated will be required to sign in at Reception, read and sign the Visitors Declaration and wear a visitor's ID badge
+* External visitors (not University of Edinburgh affiliated) will be required to sign in at Reception, read and sign the Visitors Declaration and wear a visitor's ID badge
 
-**Parking**: Cars need to be registered at Reception.
+**Parking**: 
+Cars need to be registered at Reception.
 
 
 ## Code of Conduct
