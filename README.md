@@ -15,6 +15,10 @@ The primary goal of the Community of Edinburgh Research Software Engineers (CERS
 
 B-006 (Basement seminar room), Roslin Institute at 3pm on 31/05/23.
 
+**Arrival**: Visitors to Roslin Institute will be required to sign-in at Reception and wear their University of Edinburgh badge (if they have one). 
+**Parking**: Cars need to be registered at Reception.
+
+
 ## Code of Conduct
 
 We expect all attendees at this meeting to abide by the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). In summary, we encourage the following behaviour:
