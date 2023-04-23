@@ -9,6 +9,7 @@
 - [ ] **All** inform the site manager about the event
 - [ ] **All** inform the H&S site manager
 - [ ] **All** inform recetion
+- [ ] **All** need to sort out catering
 
 ## Notes
 

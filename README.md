@@ -15,8 +15,12 @@ The primary goal of the Community of Edinburgh Research Software Engineers (CERS
 
 B-006 (Basement seminar room), Roslin Institute at 3pm on 31/05/23.
 
-**Arrival**: Visitors to Roslin Institute will be required to sign-in at Reception and wear their University of Edinburgh badge (if they have one). 
-**Parking**: Cars need to be registered at Reception.
+**Visitor Regulations**: 
+* University of Edinburgh affiliated visitors will be required to wear their University of Edinburgh badge.
+* External visitors (not University of Edinburgh affiliated) will be required to sign in at Reception, and pick up a visitor's ID badge
+
+**Parking**: 
+Parking is free of charge. However, cars need to be registered at Reception to avoid a parking ticket.
 
 
 ## Code of Conduct
