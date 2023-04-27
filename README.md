@@ -47,7 +47,8 @@ This is a provisional timetable.
 |15:10 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
 |15:40 | **List of talks** |
 |15:30 | Coffee and biscuits **Optional** |
-|16:00 | Close |
+|16:00 | Close of presentations and networking event |
+|17:00 | Close |
 
-In order to get an idea of numbers for catering please **add registration (Optional)**. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
+Numbers to this event are limited to 40 places due to the room capacity so [registration](https://www.eventbrite.co.uk/e/cerse-meeting-at-roslin-tickets-625345574447) is necessary. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
