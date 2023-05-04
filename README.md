@@ -49,7 +49,7 @@ This is a provisional timetable.
 |15:25 | **Wellcome Data Prize for digital tool development**,  Aja Murray (Reader, Psychology) |
 |15:40 | **Smartwatches to track Endometriosis**, Katherine Edgley (PhD student, ENDO1000 project)|
 |15:55 | Close of presentations and networking event |
-|16:00 | Coffee and biscuits |
+|16:00 | Coffee and biscuits -- **Optional** |
 |17:00 | Close |
 
 Numbers to this event are limited to 40 places due to the room capacity so [registration](https://www.eventbrite.co.uk/e/cerse-meeting-at-roslin-tickets-625345574447) is necessary. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
