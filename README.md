@@ -43,8 +43,7 @@ This is a provisional timetable.
 
 |Time  | Activity      |
 |------| ------|
-|15:00 | Welcome and ice breaking session- Sarah Janac |
-|15:10 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
+|15:00 | Welcome and ice breaking session (opportunity to get to know your fellow attendees) - Sarah Janac |
 |15:15 | **Covid-19 data modelling at Roslin**, Anthony Wood (Post-doctoral Research Fellow, Roslin Institute) |
 |15:30 | **Wellcome Data Prize for digital tool development**,  Aja Murray (Reader, Psychology) |
 |15:45 | **DataVault for data preservation**, Pauline Ward and Team (Research Data Support)|
