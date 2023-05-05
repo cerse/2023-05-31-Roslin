@@ -47,7 +47,7 @@ This is a provisional timetable.
 |15:10 | Ice breaking session (opportunity to get to know your fellow attendees) -- **Optional** |
 |15:10 | **Covid-19 data modelling at Roslin**, Anthony Wood (Post-doctoral Research Fellow, Roslin Institute) |
 |15:25 | **Wellcome Data Prize for digital tool development**,  Aja Murray (Reader, Psychology) |
-|15:40 | **Smartwatches to track Endometriosis**, Katherine Edgley (PhD student, ENDO1000 project)|
+|15:40 | **DataVault for data preservation**, Pauline Ward and Team (Research Data Support)|
 |15:55 | Close of presentations and networking event |
 |16:00 | Coffee and biscuits -- **Optional** |
 |17:00 | Close |
