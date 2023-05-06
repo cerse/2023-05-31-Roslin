@@ -17,7 +17,8 @@ B-006 (Basement seminar room), Roslin Institute at 3pm on 31/05/23.
 
 **Visitor Regulations**: 
 * University of Edinburgh affiliated visitors will be required to wear their University of Edinburgh badge.
-* External visitors (not University of Edinburgh affiliated) will be required to sign in at Reception, and pick up a visitor's ID badge
+* External visitors (not University of Edinburgh affiliated) will be required to sign in at Reception, and pick up a visitor's ID badge.
+* Please do [get in touch](mailto:mario@epcc.ed.ac.uk) if you are mobility impaired so that a Personal Emergency Evacuation Plan (PEEP) can be sorted before your visit otherwise you will be restricted to the ground floor and not be able to attend the event. Let us know if you have any other special needs.
 
 **Parking**: 
 Parking is free of charge. However, cars need to be registered at Reception to avoid a parking ticket.
@@ -35,7 +36,7 @@ We expect all attendees at this meeting to abide by the [Carpentries Code of Con
 
 Please see the link above for the full Code.
 
-If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (**Sarah Janac**, **Mario Antonioletti**, **Eleni Kotoula**). All reports will be reviewed by the organisers and kept confidential.  
+If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (**Sarah Janac**, **Mario Antonioletti**). All reports will be reviewed by the organisers and kept confidential.  
 
 ## Schedule
 
