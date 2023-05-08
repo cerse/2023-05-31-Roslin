@@ -44,12 +44,13 @@ This is a provisional timetable.
 
 |Time  | Activity      |
 |------| ------|
-|15:00 | Welcome and ice breaking session (opportunity to get to know your fellow attendees) - Sarah Janac |
-|15:15 | **Covid-19 data modelling at Roslin**, Anthony Wood (Post-doctoral Research Fellow, Roslin Institute) |
+|15:00 | **Welcome: CERSE and Digital Research Services** - Sarah Janac (Research Facilitator, CMVM) |
+|15:10 | **RSE and resources at EPCC**, Mario Antonioletti (Software Architect, EPCC) |
+|15:20 | **Covid-19 data modelling at Roslin**, Anthony Wood (Post-doctoral Research Fellow, Roslin Institute) |
 |15:30 | **Wellcome Data Prize for digital tool development**,  Aja Murray (Reader, Psychology) |
-|15:45 | **DataVault for data preservation**, Pauline Ward and Team (Research Data Support)|
-|16:00 | Close of presentations and networking event **Optional**|
+|15:40 | **DataVault for data preservation**, Pauline Ward and Team (Research Data Support) |
+|15:50 | Ice breaking session (opportunity to get to know your fellow attendees) **Optional** |
+|16:00 | Networking Opportunity |
 |16:30 | Close |
-
 Numbers to this event are limited to 40 places due to the room capacity so [registration](https://www.eventbrite.co.uk/e/cerse-meeting-at-roslin-tickets-625345574447) is necessary. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
