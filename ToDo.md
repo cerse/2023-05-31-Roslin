@@ -1,5 +1,4 @@
 # To do items
-[ToC]
 
 ### Outstanding
 
