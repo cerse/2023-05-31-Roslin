@@ -45,7 +45,7 @@ This is a provisional timetable.
 |Time  | Activity      |
 |------| ------|
 |15:00 | **Welcome: CERSE and Digital Research Services** - Sarah Janac (Research Facilitator, CMVM) |
-|15:10 | **RSE and resources at EPCC**, Mario Antonioletti (Software Architect, EPCC) |
+|15:10 | **RSEs and resources at EPCC**, Mario Antonioletti (Software Architect, EPCC) |
 |15:20 | **Covid-19 data modelling at Roslin**, Anthony Wood (Post-doctoral Research Fellow, Roslin Institute) |
 |15:30 | **Wellcome Data Prize for digital tool development**,  Aja Murray (Reader, Psychology) |
 |15:40 | **DataVault for data preservation**, Pauline Ward and Team (Research Data Support) |
