@@ -1,0 +1,63 @@
+Hi,
+    Apology if you get this message more than once via different
+channels.
+
+Our next face-to-face Community of Edinburgh Research Software
+Engineers (CERSE) meeting will take place at 3pm in room B-006
+(Basement seminar room) at the Roslin Institute. There will be a
+series of pertinent talks until 4 followed by an optional networking
+session with light refereshments courtesy of Digital Research
+Services.
+
+Note that the venue has a number of constraints:
+
+ o University of Edinburgh affiliated visitors will be required to
+   wear their University of Edinburgh badge.  External visitors
+   (not University of Edinburgh affiliated) will be required to
+   sign in at Reception, and pick up a visitor's ID badge.
+
+ o Please get in touch if you are mobility impaired so that a
+   Personal Emergency Evacuation Plan (PEEP) can be sorted before
+   your visit otherwise you will be restricted to the ground floor
+   and not be able to attend the event. Let us know if you have any
+    other special needs.
+
+ o Parking: Parking is free of charge. However, cars need to be
+   registered at Reception to avoid a parking ticket.
+
+Anyone who is involved with, or interested in, the development,
+use, support or management of research software is very welcome to
+attend.
+
+o 15:00 - Welcome: CERSE and Digital Research Services, 
+          Sarah Janac (Research Facilitator, CMVM)
+o 15:10 - RSEs and resources at EPCC, 
+          Mario Antonioletti (Software Architect, EPCC)
+o 15:20 - Covid-19 data modelling at Roslin, 
+          Anthony Wood (Post-doctoral Research Fellow, Roslin Institute)
+o 15:30 - Wellcome Data Prize for digital tool development, 
+          Aja Murray (Reader, Psychology)
+o 15:40 - DataVault for data preservation, 
+          Pauline Ward and Team (Research Data Support)
+o 15:50 - Ice breaker (opportunity to get to know your fellow attendees) 
+o 16:00 - Coffee and biscuits - Networking session                                  
+o 16:45 - Close                                                                     
+
+If anyone would like to volunteer a venue for a future meeting,
+would like to be involved in the organisation of such meetings or
+would like to speak at a future meeting then please get in touch.
+Our next meeting will probably be in June and will be a virtual 
+meeting.
+
+To get a number for catering requirements please register. Also
+note that we are limited to 40 attendees due to venue constraints.
+If you know you are not going to be able to attend please cancel
+your order so someone else can attend. Link:
+
+https://www.eventbrite.co.uk/e/cerse-meeting-at-roslin-tickets-625345574447
+
+Further information: https://github.com/cerse/2023-05-31-Roslin
+
+Please circulate to anyone in the Edinburgh area who you think may be
+interested.
+
