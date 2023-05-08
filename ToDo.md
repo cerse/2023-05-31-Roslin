@@ -1,19 +1,31 @@
 # To do items
+[ToC]
 
-- [ ] **Mario** Fill in Roslin forms and send and cc Sara in for the room booking and note issues/blockers.
-- [x] **Sarah** update web site to inform about parking.
-- [x] **Sarah** update web site to inform about badge wearing.
+### Outstanding
+
 - [ ] **Mario** provide information about a fire emergency at Roslin.
-- [ ]  **Mario** ask if there is a slide/image about fire procedure.
-- [ ] **All** need to source a first aider.
-- [ ] **All** need to notify if there are any disabled attendees.
-- [ ] **All** inform the site manager about the event
-- [ ] **All** inform the H&S site manager
-- [ ] **All** inform reception
-- [ ] **Mario** need to sort out catering
+- [ ] **Mario** need to source a first aider.
+  Have asked if this is something that we need to source.
+- [ ] **Mario** inform the site manager about the event
+  Have asked if this is something that we need to do.
+- [ ] **Mario** inform the H&S site manager
+  Have asked if this is something that we need to do.
+- [ ] **Mario** inform reception
+  Have asked if this is something that we need to do.
+- [ ] **Sarah** order Teas/Coffees/Biscuits for the event
 - [ ] **Mario** contact Jane to find out about social dynamics at Roslin
 - [ ] **Mario** publicise event in the usual channels
-- [ ] **Sara** try to publicise in local Roslin channels.
+- [ ] **Sarah** try to publicise in local Roslin channels.
+
+### Completed items
+- [x] **Mario** need to sort out catering
+  Have asked Eleni if DRS will fund the catering - answer was yes.
+- [x] **Mario** Fill in Roslin forms and send and cc Sara in for the room booking and note issues/blockers.
+- [x] **Sarah** update web site to inform about parking.
+- [x] **Sarah** update web site to inform about badge wearing.
+- [x]  **Mario** ask if there is a slide/image about fire procedure.
+- [x] **Mario** need to notify if there are any disabled attendees.
+  Added a comment on the web site for them to get in touch.
 
 ## Notes
 
