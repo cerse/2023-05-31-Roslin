@@ -9,22 +9,6 @@ series of pertinent talks until 4 followed by an optional networking
 session with light refereshments courtesy of Digital Research
 Services.
 
-Note that the venue has a number of constraints:
-
- o University of Edinburgh affiliated visitors will be required to
-   wear their University of Edinburgh badge.  External visitors
-   (not University of Edinburgh affiliated) will be required to
-   sign in at Reception, and pick up a visitor's ID badge.
-
- o Please get in touch if you are mobility impaired so that a
-   Personal Emergency Evacuation Plan (PEEP) can be sorted before
-   your visit otherwise you will be restricted to the ground floor
-   and not be able to attend the event. Let us know if you have any
-    other special needs.
-
- o Parking: Parking is free of charge. However, cars need to be
-   registered at Reception to avoid a parking ticket.
-
 Anyone who is involved with, or interested in, the development,
 use, support or management of research software is very welcome to
 attend.
@@ -60,4 +44,20 @@ Further information: https://github.com/cerse/2023-05-31-Roslin
 
 Please circulate to anyone in the Edinburgh area who you think may be
 interested.
+
+Note that the venue has a number of constraints:
+
+ o University of Edinburgh affiliated visitors will be required to
+   wear their University of Edinburgh badge.  External visitors
+   (not University of Edinburgh affiliated) will be required to
+   sign in at Reception, and pick up a visitor's ID badge.
+
+ o Please get in touch if you are mobility impaired so that a
+   Personal Emergency Evacuation Plan (PEEP) can be sorted before
+   your visit otherwise you will be restricted to the ground floor
+   and not be able to attend the event. Let us know if you have any
+    other special needs.
+
+ o Parking: Parking is free of charge. However, cars need to be
+   registered at Reception to avoid a parking ticket.
 
