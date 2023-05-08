@@ -52,5 +52,6 @@ This is a provisional timetable.
 |15:50 | Ice breaking session (opportunity to get to know your fellow attendees) **Optional** |
 |16:00 | Networking Opportunity |
 |16:30 | Close |
+
 Numbers to this event are limited to 40 places due to the room capacity so [registration](https://www.eventbrite.co.uk/e/cerse-meeting-at-roslin-tickets-625345574447) is necessary. If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
