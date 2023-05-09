@@ -11,10 +11,10 @@
   Have asked if this is something that we need to do.
 - [ ] **Mario** inform reception
   Have asked if this is something that we need to do.
-- [ ] **Sarah** order Teas/Coffees/Biscuits for the event
+- [x] **Sarah** order Teas/Coffees/Biscuits for the event
 - [ ] **Mario** contact Jane to find out about social dynamics at Roslin
 - [ ] **Mario** publicise event in the usual channels
-- [ ] **Sarah** try to publicise in local Roslin channels.
+- [x] **Sarah** try to publicise in local Roslin channels.
 
 ### Completed items
 - [x] **Mario** need to sort out catering
