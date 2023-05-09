@@ -22,7 +22,7 @@ o 15:20 - Covid-19 data modelling at Roslin,
 o 15:30 - Wellcome Data Prize for digital tool development, 
           Aja Murray (Reader, Psychology)
 o 15:40 - DataVault for data preservation, 
-          Pauline Ward and Team (Research Data Support)
+          Stefano Bordoni (Research Data Support)
 o 15:50 - Ice breaker (opportunity to get to know your fellow attendees) 
 o 16:00 - Coffee and biscuits - Networking session                                  
 o 16:45 - Close                                                                     
