@@ -15,6 +15,7 @@
 - [ ] **Mario** contact Jane to find out about social dynamics at Roslin
 - [ ] **Mario** publicise event in the usual channels
 - [x] **Sarah** try to publicise in local Roslin channels.
+- [ ] **Sarah** to put up signposts and "reserve signs" on tables in basement atrium
 
 ### Completed items
 - [x] **Mario** need to sort out catering
