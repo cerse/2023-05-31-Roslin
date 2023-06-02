@@ -44,12 +44,12 @@ This is a provisional timetable.
 
 |Time  | Activity      |
 |------| ------|
-|15:00 | **Welcome: CERSE and Digital Research Services** - Sarah Janac (Research Facilitator, CMVM) |
-|15:10 | **RSEs and resources at EPCC**, Mario Antonioletti (Software Architect, EPCC) |
-|15:20 | **Covid-19 data modelling at Roslin**, Anthony Wood (Post-doctoral Research Fellow, Roslin Institute) |
-|15:30 | **Wellcome Data Prize for digital tool development**,  Aja Murray (Reader, Psychology) |
-|15:40 | **DataVault for data preservation**, Stefano Bordoni (Research Data Support) |
-|15:50 | Ice breaking session (opportunity to get to know your fellow attendees), Andre Vieira (Research Facilitator, CSE) |
+|15:00 | **Welcome: CERSE and Digital Research Services** - Sarah Janac (Research Facilitator, CMVM) ([pptx](Slides/CERSE9-Intro.pptx)) ([pdf](Slides/CERSE9-Intro.pdf)) |
+|15:10 | **RSEs and resources at EPCC**, Mario Antonioletti (Software Architect, EPCC) ([pptx](Slides/epcc-cerse-roslin.pptx)) ([pdf](Slides/epcc-cerse-roslin.pdf)) |
+|15:20 | **Covid-19 data modelling at Roslin**, Anthony Wood (Post-doctoral Research Fellow, Roslin Institute) ([pptx](Slides/20230531_Wood_CERSE.pptx)) ([pdf](Slides/20230531_Wood_CERSE.pdf)) |
+|15:30 | **Wellcome Data Prize for digital tool development**,  Aja Murray (Reader, Psychology) ([pptx](Slides/Aja_Murray.pptx)) ([pdf](Slides/Aja_Murray.pdf)) |
+|15:40 | **DataVault for data preservation**, Stefano Bordoni (Research Data Support) ([pptx](Slides/DataVault_CERSE_Bordoni.pptx)) ([pdf](Slides/DataVault_CERSE_Bordoni.pdf)) |
+|15:50 | Ice breaking session (opportunity to get to know your fellow attendees), Andre Vieira (Research Facilitator, CSE) ([pptx](Slides/IceBreaker.pptx)) ([pdf](Slides/IceBreaker.pdf)) |
 |16:00 | Networking Opportunity |
 |16:45 | Close |
 
